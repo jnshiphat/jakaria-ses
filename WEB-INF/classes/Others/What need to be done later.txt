@@ -1,0 +1,5 @@
+What need to be done later:
+1. Working with User class - set and get
+2. Different class for database works - via User class
+3. Password md5
+4. Login, Register with Function of User class.
